@@ -15,11 +15,13 @@ body {
     font-style: italic;
   }
   
-  h1, h2, p {
+  h1, 
+  h2, 
+  p {
     text-align: center;
   }
   
-  .menu {
+  .Menu {
     width: 80%;
     background-color: burlywood;
     margin-left: auto;
